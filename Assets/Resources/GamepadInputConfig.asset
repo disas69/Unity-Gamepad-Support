@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 091e4dc26b5b4952990cb8bb6d083ccb, type: 3}
+  m_Name: GamepadInputConfig
+  m_EditorClassIdentifier: 
+  InputEvents:
+  - Button: 0
+    Action: 6
+  - Button: 1
+    Action: 4
+  - Button: 2
+    Action: 5
+  - Button: 3
+    Action: 1
+  - Button: 4
+    Action: 2
+  - Button: 5
+    Action: 3
+  - Button: 6
+    Action: 0
+  - Button: 7
+    Action: 0
+  - Button: 8
+    Action: 7
+  - Button: 9
+    Action: 8
